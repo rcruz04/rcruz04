@@ -9,4 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rcruz04/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rcruz04/azure-network-protocols)
+- <b>Microsoft Active Directory</b>
+  - [Managing users using active directory panel](https://github.com/rcruz04/)
+
 
