@@ -3,6 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+<!-- 
+-->
   - [osTicket: Prerequisites and Installation](https://github.com/rcruz04/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/rcruz04/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/rcrus04/ticket-lifecycle)
