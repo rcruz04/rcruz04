@@ -4,9 +4,9 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rcruz04/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rcruz04/azure-network-protocols) -In progress
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rcruz04/azure-network-protocols) -<ins>In progress</ins>
 
-- <b>osTicket (Help Desk Ticketing System) - Documentaion in progress</b>
+- <b>osTicket (Help Desk Ticketing System) - <ins>Documentaion in progress</ins></b>
   - [osTicket: Prerequisites and Installation](https://github.com/rcruz04/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/rcruz04/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/rcruz04/ticket-lifecycle)
