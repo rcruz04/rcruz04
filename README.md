@@ -7,7 +7,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rcruz04/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System) </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/rcruz04/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/rcruz04/osticket-prereqs) - <ins>Documentaion in progress</ins>
   - [osTicket: Post-Installation Configuration](https://github.com/rcruz04/post-install-config) - <ins>Documentaion in progress</ins>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/rcruz04/ticket-lifecycle) - <ins>Documentaion in progress</ins>
 
